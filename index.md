@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Notes and thoughts
 
-Maybe say a some things about yourself.
+... and may be a few projects
 
-Or maybe what you plan to blog about.
+I'll be moving some older projects here as well, stay tuned.
